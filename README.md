@@ -24,8 +24,10 @@ The extracted information (title, author, publication date, content, summary, UR
 in the PostgreSQL database using psycopg2.
 
 
-#How to run
+# How to run
+
 Note: it can only run in localhost for the meantime
+
 Prerequisites: 
 install flask, psycopg2 and npm
 
