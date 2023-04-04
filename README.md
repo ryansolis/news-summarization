@@ -29,7 +29,8 @@ in the PostgreSQL database using psycopg2.
 Note: it can only run in localhost for the meantime
 
 Prerequisites: 
-install flask, psycopg2 and npm
+install postgreSQL, flask, psycopg2 and npm
 
-1. run the flask app by calling python server.py
-2. run the react app by calling npm start
+1. open postgreSQL
+2. run the flask app by calling python server.py
+3. run the react app by calling npm start
